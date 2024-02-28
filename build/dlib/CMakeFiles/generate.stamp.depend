@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CPack.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CPackComponent.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckFunctionExists.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindJPEG.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPNG.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindZLIB.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Templates/CPackConfig.cmake.in
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/CMakeLists.txt
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/check_if_neon_available.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/dlib.pc.in
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/dlibConfig.cmake.in
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/find_libjpeg.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/find_libpng.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/release_build_by_default
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/set_compiler_specific_options.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/config.h.in
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/revision.h.in

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\build\CMakeFiles\ef55aa0954beb6a6bb34505d3d3165c7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\dlib</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\check_if_neon_available.cmake">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\dlib.pc.in">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\dlibConfig.cmake.in">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\find_libjpeg.cmake">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\find_libpng.cmake">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\release_build_by_default">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\cmake_utils\set_compiler_specific_options.cmake">
+      <Filter>Buildsystem Input Files\dlib\cmake_utils</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\config.h.in">
+      <Filter>Buildsystem Input Files\dlib</Filter>
+    </None>
+    <None Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\dlib\dlib\revision.h.in">
+      <Filter>Buildsystem Input Files\dlib</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FF1084D-B0A2-3219-9DF6-DB327A4ECBB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C3C4B7CD-3982-31B4-B64B-8DB50AE99AE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\dlib">
+      <UniqueIdentifier>{3ACB7264-1F5D-3159-8E37-9BA70BC8134B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\dlib\cmake_utils">
+      <UniqueIdentifier>{32C1F923-8719-375B-B409-A005E4620D70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

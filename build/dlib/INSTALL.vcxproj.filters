@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\build\CMakeFiles\f7ea1452aa47b6f7e2554dfba2fd50bd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FF1084D-B0A2-3219-9DF6-DB327A4ECBB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

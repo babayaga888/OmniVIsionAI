@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cmake.sourceDirectory": "C:/Users/PC/Desktop/V0.4/.venvNeut/Lib/site-packages/tensorflow/xla_aot_runtime_src"
+}

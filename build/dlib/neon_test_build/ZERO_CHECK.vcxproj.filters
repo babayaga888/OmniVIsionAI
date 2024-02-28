@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\projects\cctvSofty\v.0.2 - Copy\build\dlib\neon_test_build\CMakeFiles\d794d389697963ca4a2fc5aa4d7f21ca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4D2297B8-28AE-3BA3-A9FF-5B4E29383BC9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

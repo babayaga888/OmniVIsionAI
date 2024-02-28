@@ -1,0 +1,298 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "dlib/CMakeLists.txt"
+		},
+		{
+			"path" : "dlib/cmake_utils/set_compiler_specific_options.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "dlib/cmake_utils/release_build_by_default"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"path" : "dlib/cmake_utils/find_libpng.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPNG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "dlib/cmake_utils/check_if_neon_available.cmake"
+		},
+		{
+			"path" : "dlib/cmake_utils/find_libjpeg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindJPEG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "dlib/config.h.in"
+		},
+		{
+			"path" : "dlib/revision.h.in"
+		},
+		{
+			"path" : "dlib/cmake_utils/dlibConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"path" : "dlib/cmake_utils/dlib.pc.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Templates/CPackConfig.cmake.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build",
+		"source" : "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,803 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.7.2+d6990bcfa for .NET Framework
+      Build started 10/08/2023 10:00:19 am.
+      
+      Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Creating directory "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:04.18
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.7.2+d6990bcfa for .NET Framework
+      Build started 10/08/2023 10:00:24 am.
+      
+      Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Creating directory "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\3.27.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:01.63
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-cogwfb"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-cogwfb"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-cogwfb'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_77cbf.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:26 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cogwfb\\cmTC_77cbf.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_77cbf.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cogwfb\\Debug\\".
+          Creating directory "cmTC_77cbf.dir\\Debug\\cmTC_77cbf.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_77cbf.dir\\Debug\\cmTC_77cbf.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_77cbf.dir\\Debug\\cmTC_77cbf.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_77cbf.dir\\Debug\\\\" /Fd"cmTC_77cbf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CMakeCCompilerABI.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_77cbf.dir\\Debug\\\\" /Fd"cmTC_77cbf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cogwfb\\Debug\\cmTC_77cbf.exe" /INCREMENTAL /ILK:"cmTC_77cbf.dir\\Debug\\cmTC_77cbf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-cogwfb/Debug/cmTC_77cbf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-cogwfb/Debug/cmTC_77cbf.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_77cbf.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_77cbf.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cogwfb\\Debug\\cmTC_77cbf.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_77cbf.dir\\Debug\\cmTC_77cbf.tlog\\unsuccessfulbuild".
+          Touching "cmTC_77cbf.dir\\Debug\\cmTC_77cbf.tlog\\cmTC_77cbf.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cogwfb\\cmTC_77cbf.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.99
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-ucecyf"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-ucecyf"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-ucecyf'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cd823.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:27 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ucecyf\\cmTC_cd823.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_cd823.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ucecyf\\Debug\\".
+          Creating directory "cmTC_cd823.dir\\Debug\\cmTC_cd823.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_cd823.dir\\Debug\\cmTC_cd823.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_cd823.dir\\Debug\\cmTC_cd823.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cd823.dir\\Debug\\\\" /Fd"cmTC_cd823.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CMakeCXXCompilerABI.cpp
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cd823.dir\\Debug\\\\" /Fd"cmTC_cd823.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ucecyf\\Debug\\cmTC_cd823.exe" /INCREMENTAL /ILK:"cmTC_cd823.dir\\Debug\\cmTC_cd823.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-ucecyf/Debug/cmTC_cd823.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-ucecyf/Debug/cmTC_cd823.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_cd823.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_cd823.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ucecyf\\Debug\\cmTC_cd823.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_cd823.dir\\Debug\\cmTC_cd823.tlog\\unsuccessfulbuild".
+          Touching "cmTC_cd823.dir\\Debug\\cmTC_cd823.tlog\\cmTC_cd823.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ucecyf\\cmTC_cd823.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.03
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake:250 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:52 (check_type_size)"
+      - "dlib/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-i52fcw"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-i52fcw"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-i52fcw'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_90f36.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:29 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\cmTC_90f36.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_90f36.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\Debug\\".
+          Creating directory "cmTC_90f36.dir\\Debug\\cmTC_90f36.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_90f36.dir\\Debug\\cmTC_90f36.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_90f36.dir\\Debug\\cmTC_90f36.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90f36.dir\\Debug\\\\" /Fd"cmTC_90f36.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CheckIncludeFile.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90f36.dir\\Debug\\\\" /Fd"cmTC_90f36.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\CheckIncludeFile.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\Debug\\cmTC_90f36.exe" /INCREMENTAL /ILK:"cmTC_90f36.dir\\Debug\\cmTC_90f36.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-i52fcw/Debug/cmTC_90f36.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-i52fcw/Debug/cmTC_90f36.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_90f36.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_90f36.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\Debug\\cmTC_90f36.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_90f36.dir\\Debug\\cmTC_90f36.tlog\\unsuccessfulbuild".
+          Touching "cmTC_90f36.dir\\Debug\\cmTC_90f36.tlog\\cmTC_90f36.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i52fcw\\cmTC_90f36.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.07
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:52 (check_type_size)"
+      - "dlib/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-596n0r"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-596n0r"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-596n0r'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d6a99.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:30 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\cmTC_d6a99.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_d6a99.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\Debug\\".
+          Creating directory "cmTC_d6a99.dir\\Debug\\cmTC_d6a99.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_d6a99.dir\\Debug\\cmTC_d6a99.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_d6a99.dir\\Debug\\cmTC_d6a99.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d6a99.dir\\Debug\\\\" /Fd"cmTC_d6a99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          CheckIncludeFile.c
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d6a99.dir\\Debug\\\\" /Fd"cmTC_d6a99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\CheckIncludeFile.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\Debug\\cmTC_d6a99.exe" /INCREMENTAL /ILK:"cmTC_d6a99.dir\\Debug\\cmTC_d6a99.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-596n0r/Debug/cmTC_d6a99.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-596n0r/Debug/cmTC_d6a99.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d6a99.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_d6a99.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\Debug\\cmTC_d6a99.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_d6a99.dir\\Debug\\cmTC_d6a99.tlog\\unsuccessfulbuild".
+          Touching "cmTC_d6a99.dir\\Debug\\cmTC_d6a99.tlog\\cmTC_d6a99.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-596n0r\\cmTC_d6a99.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.00
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:52 (check_type_size)"
+      - "dlib/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-7censc"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-7censc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-7censc'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_723ee.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:32 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\cmTC_723ee.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_723ee.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\Debug\\".
+          Creating directory "cmTC_723ee.dir\\Debug\\cmTC_723ee.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_723ee.dir\\Debug\\cmTC_723ee.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_723ee.dir\\Debug\\cmTC_723ee.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_723ee.dir\\Debug\\\\" /Fd"cmTC_723ee.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CheckIncludeFile.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_723ee.dir\\Debug\\\\" /Fd"cmTC_723ee.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\CheckIncludeFile.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\Debug\\cmTC_723ee.exe" /INCREMENTAL /ILK:"cmTC_723ee.dir\\Debug\\cmTC_723ee.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-7censc/Debug/cmTC_723ee.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-7censc/Debug/cmTC_723ee.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_723ee.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_723ee.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\Debug\\cmTC_723ee.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_723ee.dir\\Debug\\cmTC_723ee.tlog\\unsuccessfulbuild".
+          Touching "cmTC_723ee.dir\\Debug\\cmTC_723ee.tlog\\cmTC_723ee.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7censc\\cmTC_723ee.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.18
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:52 (check_type_size)"
+      - "dlib/CMakeLists.txt:30 (include)"
+    checks:
+      - "Check size of void*"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-vlfyco"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-vlfyco"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "HAVE_SIZE_OF_VOID_PTR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-vlfyco'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_59530.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:33 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\cmTC_59530.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_59530.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\Debug\\".
+          Creating directory "cmTC_59530.dir\\Debug\\cmTC_59530.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_59530.dir\\Debug\\cmTC_59530.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_59530.dir\\Debug\\cmTC_59530.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59530.dir\\Debug\\\\" /Fd"cmTC_59530.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\SIZE_OF_VOID_PTR.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          SIZE_OF_VOID_PTR.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59530.dir\\Debug\\\\" /Fd"cmTC_59530.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\SIZE_OF_VOID_PTR.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\Debug\\cmTC_59530.exe" /INCREMENTAL /ILK:"cmTC_59530.dir\\Debug\\cmTC_59530.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-vlfyco/Debug/cmTC_59530.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-vlfyco/Debug/cmTC_59530.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_59530.dir\\Debug\\SIZE_OF_VOID_PTR.obj
+          cmTC_59530.vcxproj -> C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\Debug\\cmTC_59530.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_59530.dir\\Debug\\cmTC_59530.tlog\\unsuccessfulbuild".
+          Touching "cmTC_59530.dir\\Debug\\cmTC_59530.tlog\\cmTC_59530.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlfyco\\cmTC_59530.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.88
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/cmake_utils/check_if_neon_available.cmake:14 (try_compile)"
+      - "dlib/CMakeLists.txt:485 (include)"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/test_for_neon"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/neon_test_build"
+    buildResult:
+      variable: "test_for_neon_worked"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/neon_test_build'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" ALL_BUILD.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:35 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "win32\\Debug\\ZERO_CHECK\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\Debug\\".
+          Creating directory "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\".
+        InitializeBuildStatus:
+          Creating "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          1>Checking Build System
+        FinalizeBuildStatus:
+          Deleting file "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+          Touching "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\ZERO_CHECK.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (default targets).
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (3) on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "neon_test.dir\\Debug\\".
+          Creating directory "neon_test.dir\\Debug\\neon_test.tlog\\".
+        InitializeBuildStatus:
+          Creating "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          Building Custom Rule C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/test_for_neon/CMakeLists.txt
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"neon_test.dir\\Debug\\\\" /Fd"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\Debug\\neon_test.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp"
+          neon_test.cpp
+        C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): fatal  error C1189: #error:  "No NEON" [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (default targets) -- FAILED.
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default target) (1) ->
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (default target) (3) ->
+        (ClCompile target) -> 
+          C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): fatal  error C1189: #error:  "No NEON" [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:01.12
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindBLAS.cmake:372 (check_function_exists)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindBLAS.cmake:416 (check_blas_libraries)"
+      - "dlib/cmake_utils/find_blas.cmake:433 (find_package)"
+      - "dlib/CMakeLists.txt:588 (include)"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-1eo2jp"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-1eo2jp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "BLAS_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-1eo2jp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c93c8.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:37 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_c93c8.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\Debug\\".
+          Creating directory "cmTC_c93c8.dir\\Debug\\cmTC_c93c8.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_c93c8.dir\\Debug\\cmTC_c93c8.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_c93c8.dir\\Debug\\cmTC_c93c8.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c93c8.dir\\Debug\\\\" /Fd"cmTC_c93c8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CheckFunctionExists.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c93c8.dir\\Debug\\\\" /Fd"cmTC_c93c8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\Debug\\cmTC_c93c8.exe" /INCREMENTAL /ILK:"cmTC_c93c8.dir\\Debug\\cmTC_c93c8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-1eo2jp/Debug/cmTC_c93c8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-1eo2jp/Debug/cmTC_c93c8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c93c8.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: unresolved external symbol _sgemm_ referenced in function _main [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj]
+        C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\Debug\\cmTC_c93c8.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          CheckFunctionExists.obj : error LNK2019: unresolved external symbol _sgemm_ referenced in function _main [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj]
+          C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\Debug\\cmTC_c93c8.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1eo2jp\\cmTC_c93c8.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.85
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:433 (find_package)"
+      - "dlib/CMakeLists.txt:588 (include)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-onfz1o"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-onfz1o"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-onfz1o'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8cc55.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:38 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\cmTC_8cc55.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_8cc55.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\Debug\\".
+          Creating directory "cmTC_8cc55.dir\\Debug\\cmTC_8cc55.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_8cc55.dir\\Debug\\cmTC_8cc55.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_8cc55.dir\\Debug\\cmTC_8cc55.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8cc55.dir\\Debug\\\\" /Fd"cmTC_8cc55.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          src.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8cc55.dir\\Debug\\\\" /Fd"cmTC_8cc55.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\src.c"
+        C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\cmTC_8cc55.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\cmTC_8cc55.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\cmTC_8cc55.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-onfz1o\\cmTC_8cc55.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.69
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:433 (find_package)"
+      - "dlib/CMakeLists.txt:588 (include)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-crqwa2"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-crqwa2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-crqwa2'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8405a.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:39 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\cmTC_8405a.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_8405a.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\Debug\\".
+          Creating directory "cmTC_8405a.dir\\Debug\\cmTC_8405a.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_8405a.dir\\Debug\\cmTC_8405a.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_8405a.dir\\Debug\\cmTC_8405a.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8405a.dir\\Debug\\\\" /Fd"cmTC_8405a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          CheckFunctionExists.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8405a.dir\\Debug\\\\" /Fd"cmTC_8405a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\Debug\\cmTC_8405a.exe" /INCREMENTAL /ILK:"cmTC_8405a.dir\\Debug\\cmTC_8405a.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-crqwa2/Debug/cmTC_8405a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-crqwa2/Debug/cmTC_8405a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_8405a.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\cmTC_8405a.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\cmTC_8405a.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\cmTC_8405a.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-crqwa2\\cmTC_8405a.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.96
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:433 (find_package)"
+      - "dlib/CMakeLists.txt:588 (include)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-j2ksz5"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-j2ksz5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-j2ksz5'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c3f74.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:41 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\cmTC_c3f74.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_c3f74.dir\\Debug\\".
+          Creating directory "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\Debug\\".
+          Creating directory "cmTC_c3f74.dir\\Debug\\cmTC_c3f74.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_c3f74.dir\\Debug\\cmTC_c3f74.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_c3f74.dir\\Debug\\cmTC_c3f74.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c3f74.dir\\Debug\\\\" /Fd"cmTC_c3f74.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32822 for x86
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          CheckFunctionExists.c
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c3f74.dir\\Debug\\\\" /Fd"cmTC_c3f74.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\Debug\\cmTC_c3f74.exe" /INCREMENTAL /ILK:"cmTC_c3f74.dir\\Debug\\cmTC_c3f74.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-j2ksz5/Debug/cmTC_c3f74.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/CMakeScratch/TryCompile-j2ksz5/Debug/cmTC_c3f74.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c3f74.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\cmTC_c3f74.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\cmTC_c3f74.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\cmTC_c3f74.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j2ksz5\\cmTC_c3f74.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:01.07
+        
+      exitCode: 1
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/cmake_utils/check_if_neon_available.cmake:14 (try_compile)"
+      - "dlib/CMakeLists.txt:485 (include)"
+    directories:
+      source: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/test_for_neon"
+      binary: "C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/neon_test_build"
+    buildResult:
+      variable: "test_for_neon_worked"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/neon_test_build'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" ALL_BUILD.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 10/08/2023 10:00:46 am.
+        
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+        InitializeBuildStatus:
+          Creating "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          All outputs are up-to-date.
+          1>Checking Build System
+        FinalizeBuildStatus:
+          Deleting file "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+          Touching "win32\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\ZERO_CHECK.lastbuildstate".
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (default targets).
+        Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (3) on node 1 (default targets).
+        InitializeBuildStatus:
+          Touching "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          All outputs are up-to-date.
+          Building Custom Rule C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/test_for_neon/CMakeLists.txt
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x86\\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"neon_test.dir\\Debug\\\\" /Fd"C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\Debug\\neon_test.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp"
+          neon_test.cpp
+        C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): fatal  error C1189: #error:  "No NEON" [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (default targets) -- FAILED.
+        Done Building Project "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default target) (1) ->
+        "C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj" (default target) (3) ->
+        (ClCompile target) -> 
+          C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\dlib\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): fatal  error C1189: #error:  "No NEON" [C:\\Users\\User\\projects\\cctvSofty\\v.0.2 - Copy\\build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.98
+        
+      exitCode: 1
+...

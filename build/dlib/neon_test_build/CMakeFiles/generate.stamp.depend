@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeCCompiler.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeRCCompiler.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/3.27.1/CMakeSystem.cmake
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/dlib/dlib/cmake_utils/test_for_neon/CMakeLists.txt

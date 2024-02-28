@@ -1,0 +1,8 @@
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/PACKAGE.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/INSTALL.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/CMakeFiles/dlib.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/CMakeFiles/PACKAGE.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/CMakeFiles/INSTALL.dir
+C:/Users/User/projects/cctvSofty/v.0.2 - Copy/build/dlib/CMakeFiles/ALL_BUILD.dir
